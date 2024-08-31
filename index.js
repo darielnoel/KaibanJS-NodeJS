@@ -1,16 +1,16 @@
 // ╔══════════════════════════════════════════════════════╗
 // ║ GETTING STARTED WITH AGENTICJS                       ║
 // ║                                                       ║
-// ║ 1. Install AgenticJS via npm:                        ║
-// ║ npm install agenticjs --save                         ║
+// ║ 1. Install KaibanJS via npm:                        ║
+// ║ npm install kaibanjs --save                         ║
 // ║                                                       ║                                                       ║
-// ║ 2. Import AgenticJS in your JavaScript file:         ║
+// ║ 2. Import KaibanJS in your JavaScript file:         ║
 // ╚══════════════════════════════════════════════════════╝
 
-const { Agent, Task, Team } = require("agenticjs");
+const { Agent, Task, Team } = require("kaibanjs");
 
 // ╔══════════════════════════════════════════════════════╗
-// ║ How to Use AgenticJS:                                ║
+// ║ How to Use KaibanJS:                                ║
 // ║ 1. Define your Agents with specific roles and goals  ║
 // ║ 2. Define the Tasks each Agent will perform          ║
 // ║ 3. Create the Team and assign Agents and their Tasks ║

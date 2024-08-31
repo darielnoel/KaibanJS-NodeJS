@@ -11,7 +11,7 @@
   "author": "Ives van Hoorne",
   "license": "MIT",
   "devDependencies": {
-    "agenticjs": "0.0.16",
+    "kaibanjs": "0.3.0",
     "jest": "^29.7.0",
     "nodemon": "^3.0.1"
   },
